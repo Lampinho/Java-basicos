@@ -1,0 +1,2 @@
+jdbc:mysql://http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=gestionpedidos
+root
