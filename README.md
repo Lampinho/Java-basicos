@@ -1,2 +1,5 @@
 # Java-basicos
-Varias aplicaciones en JSE y JEE en los branches
+* Interfaz grafica JavaFX - Pedidos
+* Interfaz grafica Swing - Editores de texto
+* JEE - Lectura BBDD
+* JSE sockets - Cliente y servidor aplicacion chat local
